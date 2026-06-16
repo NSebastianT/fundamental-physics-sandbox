@@ -32,3 +32,24 @@ Calculators, plots, simulations, notes, and whatever helps make the math easier 
 ## Status
 
 Starting the repo.
+
+## Run the app
+
+Activate the environment:
+
+    conda activate physics_sandbox
+
+Run the app:
+
+    streamlit run apps/relativity_app.py
+
+Open:
+
+    http://localhost:8501
+
+## Current features
+
+- special relativity time dilation calculator
+- gravitational time dilation calculator
+- time dilation plots
+- first Streamlit app
